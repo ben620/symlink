@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\SymLink.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\SymLink.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1532_Flag_system_Green.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1532_Flag_system_Purple.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1532_Flag_system_red.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1532_Flag_system_yellow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1547_ballpointpen.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1549_Paper_clip_blue.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1549_Paper_clip_gray.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\AutoRun.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\batfile.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\blank_cd.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Book_Green_48x48.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Book_Journal_48x48.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\compactFlash.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Computer.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cut.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\delete.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\blank_cd.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\compactFlash.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Computer.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cut.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\delete.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1547_ballpointpen.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1549_Paper_clip_blue.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\1532_Flag_system_Green.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\AutoRun.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\batfile.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Book_Green_48x48.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\009_HighPriority_48x48_72.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\010_LowPriority_48x48_72.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\109_AllAnnotations_Default_48x48_72.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\109_AllAnnotations_Help_48x48_72.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\109_AllAnnotations_Info_48x48_72.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\PendingRequest_48x48_72.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SymLink.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChildView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SymbolManage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SymLink.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChildView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SymbolManage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SymLink.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
